@@ -16,7 +16,6 @@
   * [他のチームが作ったマップを見学](user_story_mapping/review.md)
 * [ユーザーストーリーを抽出する](d2d/introduction.md)
   * [Discover to Deliverとは](d2d/guide_d2d.md)
-  * [7つの側面について](d2d/guide_map.md)
   * [ワークショップ](d2d/workshop_readme.md)
     * [#1 ユーザー](d2d/workshop_user.md)
     * [#2 インターフェース](d2d/workshop_interface.md)
