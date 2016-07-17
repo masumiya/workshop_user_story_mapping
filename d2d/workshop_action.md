@@ -14,4 +14,4 @@
 
 ユーザーが起こしたアクションは、プロダクトでどういう処理がされるのか、それを受けてどういう行動をとるのかなど図にしてください。
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

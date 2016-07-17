@@ -20,4 +20,4 @@
 * それがないと、シナリオ達成が成り立たないもの
 * プロダクトにとって欠かせない価値になるもの
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

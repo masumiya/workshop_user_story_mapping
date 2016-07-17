@@ -14,4 +14,4 @@
 
 グルーピングした見出しをさらに大きなくくりで見出しを付けてみてください。
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

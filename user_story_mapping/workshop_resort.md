@@ -14,4 +14,4 @@
 
 抽出したMVPのストーリーに、新しく一意となるように番号を付けてください。
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

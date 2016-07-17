@@ -18,4 +18,4 @@
 * 左から右に時系列になるように並べてください
 * 上から下に優先順になるように並べてください
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

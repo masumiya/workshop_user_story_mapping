@@ -21,4 +21,4 @@
 * どこのチームが一番魅力的なプロダクトになりそうだった？
 
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

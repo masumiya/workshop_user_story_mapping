@@ -14,4 +14,4 @@
 
 並べたユーザーストーリーを、ストーリーが実施される順番で一意になるように番号を付けてください。
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

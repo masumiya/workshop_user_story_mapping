@@ -15,4 +15,4 @@
 1. このプロダクトを使うユーザーを探して書き出してください。
 1. 書き出したユーザーは、優先すべき順序で一意になるように並び替えてください。
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

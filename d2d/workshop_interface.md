@@ -14,4 +14,4 @@
 
 ユーザーは、プロダクトのどういうインターフェースを使って何をやり取りするのか図にしてください。
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>

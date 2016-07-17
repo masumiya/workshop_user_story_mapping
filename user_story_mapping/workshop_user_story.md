@@ -26,4 +26,4 @@
 [ユーザー]は、[得られる価値]のために[行動]したい。
 ```
 
-<script type="text/javascript" src="/js/timer.js"></script>
+<script type="text/javascript" src="../js/timer.js"></script>
