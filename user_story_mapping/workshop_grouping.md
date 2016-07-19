@@ -14,4 +14,6 @@
 
 グルーピングしたユーザーストーリーの塊に見出しを付けてみてください。
 
+![](img/user_story_map_work3.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

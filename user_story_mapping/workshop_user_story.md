@@ -26,4 +26,6 @@
 [ユーザー]は、[得られる価値]のために[行動]したい。
 ```
 
+![](img/user_story_map_work1.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

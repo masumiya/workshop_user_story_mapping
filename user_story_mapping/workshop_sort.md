@@ -14,4 +14,6 @@
 
 並べたユーザーストーリーを、ストーリーが実施される順番で一意になるように番号を付けてください。
 
+![](img/user_story_map_work5.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

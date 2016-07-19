@@ -14,4 +14,6 @@
 
 グルーピングした見出しをさらに大きなくくりで見出しを付けてみてください。
 
+![](img/user_story_map_work4.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

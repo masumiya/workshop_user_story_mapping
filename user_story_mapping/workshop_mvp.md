@@ -20,4 +20,6 @@
 * それがないと、シナリオ達成が成り立たないもの
 * プロダクトにとって欠かせない価値になるもの
 
+![](img/user_story_map_work6.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

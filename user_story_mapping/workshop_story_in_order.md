@@ -18,4 +18,6 @@
 * 左から右に時系列になるように並べてください
 * 上から下に優先順になるように並べてください
 
+![](img/user_story_map_work2.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

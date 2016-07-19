@@ -14,4 +14,6 @@
 
 抽出したMVPのストーリーに、新しく一意となるように番号を付けてください。
 
+![](img/user_story_map_work7.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>
