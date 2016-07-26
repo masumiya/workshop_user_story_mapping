@@ -14,4 +14,6 @@
 
 このプロダクトでどういうデータが必要になるのかモデリングしてください。
 
+![](img/d2d_work4.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

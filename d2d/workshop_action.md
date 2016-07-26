@@ -14,4 +14,6 @@
 
 ユーザーが起こしたアクションは、プロダクトでどういう処理がされるのか、それを受けてどういう行動をとるのかなど図にしてください。
 
+![](img/d2d_work5.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

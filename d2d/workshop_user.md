@@ -15,4 +15,6 @@
 1. このプロダクトを使うユーザーを探して書き出してください。
 1. 書き出したユーザーは、優先すべき順序で一意になるように並び替えてください。
 
+![](img/d2d_work2.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

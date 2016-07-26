@@ -14,4 +14,6 @@
 
 3つの役割（ユーザー/業務/技術）で、このプロダクトを作るにあたってどのような価値観点（期待していることなど）を持っているのか出してください。
 
+![](img/d2d_work1.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>

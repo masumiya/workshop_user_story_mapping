@@ -14,4 +14,6 @@
 
 ユーザーは、プロダクトのどういうインターフェースを使って何をやり取りするのか図にしてください。
 
+![](img/d2d_work3.jpg)
+
 <script type="text/javascript" src="../js/timer.js"></script>
